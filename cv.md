@@ -9,3 +9,7 @@ I am 23 years old. I want to be a front-end developer. I like programming, math 
 * Git 
 * MySQL
 ### You can see my code exampels [here](https://github.com/DmitriyFriz)
+## Education:
+I have finished BNTU. My speciality is civil engineer.
+Now I'm stadying at RS School and HTML Academy. 
+### My english level is A2 (pre-intermediate).
