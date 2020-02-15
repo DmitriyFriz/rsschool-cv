@@ -1,0 +1,82 @@
+html {
+  font-size: 10px;
+}
+
+* {
+  margin: 0;
+}
+
+body {
+  color: black;
+  font-family: "Noto Serif", serif, "Arial";
+  font-size: 1.8rem;
+}
+
+a {
+  color: rgb(77, 189, 161);
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgba(105, 82, 82, 0.192);
+  text-decoration: underline;
+}
+
+.wrapper {
+  width: 810px;
+  margin: 10px auto 40px;
+  padding: 60px;
+
+  background: rgb(217, 238, 247);
+  box-shadow: 6px 6px rgb(169, 174, 177), 20px 15px 10px 5px  rgba(0, 0, 0, .2);;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+}
+
+.header-name {
+  margin: 0 auto 20px;
+  font-size: 3.8rem;
+}
+
+.section {
+  margin-top: 30px;
+}
+
+.section-name {
+  margin-bottom: 10px;
+  font-size: 2.7rem;
+}
+
+.article {
+  margin-top: 10px;
+}
+
+.article-info {
+  font-size: 2rem;
+}
+
+.skills {
+  display: inline-block;
+  padding: 5px 10px;
+
+  border: 2px dashed rgb(169, 174, 177);
+}
+
+.skills-item {
+  list-style-type: none;
+}
+
+.skills-item:before {
+  padding-right: 10px;
+  color: black;
+  content: "\270E";
+ }
+
+.footer {
+  margin-top: 30px;
+  padding-top: 15px;
+  border-top: 2px dashed rgb(169, 174, 177);
+}
